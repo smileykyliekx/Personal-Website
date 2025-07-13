@@ -24,11 +24,11 @@ font-size:1.3em;
 li a:hover{
   background-color:powderblue;
 }
-main{
+
   img{
   border: 3px ridge white;
   }
-}
+
 
 header{
   background-color:#E0FFFF;
